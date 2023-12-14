@@ -1,0 +1,14 @@
+D:\C#\Chat\Client\Client\bin\Debug\net7.0\Client.exe
+D:\C#\Chat\Client\Client\bin\Debug\net7.0\Client.deps.json
+D:\C#\Chat\Client\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+D:\C#\Chat\Client\Client\bin\Debug\net7.0\Client.dll
+D:\C#\Chat\Client\Client\bin\Debug\net7.0\Client.pdb
+D:\C#\Chat\Client\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Chat\Client\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+D:\C#\Chat\Client\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+D:\C#\Chat\Client\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+D:\C#\Chat\Client\Client\obj\Debug\net7.0\Client.dll
+D:\C#\Chat\Client\Client\obj\Debug\net7.0\refint\Client.dll
+D:\C#\Chat\Client\Client\obj\Debug\net7.0\Client.pdb
+D:\C#\Chat\Client\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+D:\C#\Chat\Client\Client\obj\Debug\net7.0\ref\Client.dll
